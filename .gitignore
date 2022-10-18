@@ -69,3 +69,5 @@ venv
 .pydevproject
 .settings
 .dbeaver
+.envrc
+.envrc
